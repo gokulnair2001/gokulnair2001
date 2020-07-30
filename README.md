@@ -11,5 +11,5 @@
 - Future Plans: Become a successful iOS App Developer as well as to start My own Startup. 
 - Oops,I forgot to mention I am a tech enthusiast and have a YouTube channel too. 
 - Itna sab bahut hai or janna ho to social media link to hai hi 😂. 
-- Thank you to give your valuable time to look at my GitHub Profile.👨🏻‍💻
+- Thank you for giving your valuable time to look at my GitHub Profile.👨🏻‍💻
 
