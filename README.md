@@ -1,9 +1,4 @@
 ### Gokul R Nair
-
-
-
-![iOS App Developer](https://user-images.githubusercontent.com/56252259/87302500-2306bb80-c52f-11ea-85e8-e5d29d27a386.png)
-
  
 - 👋 everyone, Myself Gokul R Nair, an iOS App Developer pursuing my BTech📜 in Computer science Engineering ,from Vellore Institute Of Technology .
 - I made various apps like Criminal Record Management, Weather, Horoscope, E-commerce ,Recipe & Nutrition Apps , have a look on it below ⬇️. 
