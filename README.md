@@ -7,6 +7,10 @@
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/gokul_r_nair)
 
 ____________________________________________________________________
+
+![I Help People To Make Apps and To Code](https://user-images.githubusercontent.com/56252259/92433078-a8b68880-f1b9-11ea-91a4-9089b8288543.png)
+
+____________________________________________________________________
  
 - 👋 everyone, Myself Gokul R Nair, an iOS App Developer pursuing my BTech📜 in Computer science Engineering ,from Vellore Institute Of Technology .
 - I made various apps like Criminal Record Management, Weather, Horoscope, E-commerce ,Recipe & Nutrition Apps , have a look on it below ⬇️. 
@@ -22,8 +26,11 @@ a smart reminder and emergency contact adding option and all these data is saved
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/gokulnair2001/)
 [![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/gokulnair2001/)
-[![C++](https://img.shields.io/badge/C++%20-%236DB33F.svg?&style=for-the-badge&logo=C&logoColor=white)](https://github.com/gokulnair2001/)
+[![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](https://github.com/gokulnair2001/)
+[![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/gokulnair2001/)
 [![SqlLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/gokulnair2001/)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://github.com/gokulnair2001/)
+[![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/gokulnair2001/)
 [![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://github.com/gokulnair2001/)
 
 
@@ -37,4 +44,4 @@ a smart reminder and emergency contact adding option and all these data is saved
 
 # Device 💻
 
-[![Mac](https://img.shields.io/badge/apple-macbook%20pro%202019-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)]
+[![Mac](https://img.shields.io/badge/apple-macbook%20pro%202019-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
