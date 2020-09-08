@@ -20,6 +20,7 @@ a smart reminder and emergency contact adding option and all these data is saved
 - Oops,I forgot to mention I am a tech enthusiast and have a YouTube channel too. 
 - Itna sab bahut hai or janna ho to social media link to hai hi 😂. 
 - Thank you for giving your valuable time to look at my GitHub Profile.👨🏻‍💻
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gokulnair2001)
 
 # 🚀 Skills 
 
