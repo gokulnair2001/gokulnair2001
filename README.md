@@ -44,4 +44,4 @@ a smart reminder and emergency contact adding option and all these data is saved
 
 # Device 💻
 
-[![Mac](https://img.shields.io/badge/apple-macbook%20pro%202019-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
+[![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
