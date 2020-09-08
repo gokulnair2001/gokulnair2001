@@ -19,12 +19,12 @@ a smart reminder and emergency contact adding option and all these data is saved
 
 # 🚀 Skills 
 
-[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)]
-[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)]
-[![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)]
-[![C++](https://img.shields.io/badge/C++%20-%236DB33F.svg?&style=for-the-badge&logo=C&logoColor=white)]
-[![SqlLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)]
-[![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]
+[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/gokulnair2001/)
+[![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/gokulnair2001/)
+[![C++](https://img.shields.io/badge/C++%20-%236DB33F.svg?&style=for-the-badge&logo=C&logoColor=white)](https://github.com/gokulnair2001/)
+[![SqlLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/gokulnair2001/)
+[![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://github.com/gokulnair2001/)
 
 
 # Stats 📊
