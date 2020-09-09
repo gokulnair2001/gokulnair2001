@@ -8,7 +8,8 @@
 
 ____________________________________________________________________
 
-![I Help People To Make Apps and To Code](https://user-images.githubusercontent.com/56252259/92433078-a8b68880-f1b9-11ea-91a4-9089b8288543.png)
+![I Help People To Make Apps and To Code](https://user-images.githubusercontent.com/56252259/92433078-a8b68880-f1b9-11ea-91a4-9089b8288543.png)</br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gokulnair2001)
 
 ____________________________________________________________________
  
@@ -19,8 +20,8 @@ a smart reminder and emergency contact adding option and all these data is saved
 - Future Plans: Become a successful iOS App Developer as well as to start a Startup. 
 - Oops,I forgot to mention I am a tech enthusiast and have a YouTube channel too. 
 - Itna sab bahut hai or janna ho to social media link to hai hi 😂. 
-- Thank you for giving your valuable time to look at my GitHub Profile.👨🏻‍💻
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gokulnair2001)
+- Thank you for giving your valuable time to look at my GitHub Profile.👨🏻‍💻 
+
 
 # 🚀 Skills 
 
@@ -46,3 +47,13 @@ a smart reminder and emergency contact adding option and all these data is saved
 # Device 💻
 
 [![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
+
+# What else I want to learn ? ♟
+
+![Badge](https://img.shields.io/badge/Cryptography-Swift-yellow)
+![Badge](https://img.shields.io/badge/Data-Scientist-green) 
+![Badge](https://img.shields.io/badge/Business-Management-orange) 
+
+# Project ❤️
+
+* Will come out soon in Public
