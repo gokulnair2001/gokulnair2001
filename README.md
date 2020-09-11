@@ -51,7 +51,7 @@ a smart reminder and emergency contact adding option and all these data is saved
 # What else I want to learn ? ♟
 
 ![Badge](https://img.shields.io/badge/Cryptography-Swift-yellow)
-![Badge](https://img.shields.io/badge/Data-Scientist-green) 
+![Badge](https://img.shields.io/badge/Data-Science-green) 
 ![Badge](https://img.shields.io/badge/Business-Management-orange) 
 
 # Project ❤️
