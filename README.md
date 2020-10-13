@@ -47,13 +47,3 @@ a smart reminder and emergency contact adding option and all these data is saved
 # Device 💻
 
 [![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
-
-# What else I want to learn ? ♟
-
-![Badge](https://img.shields.io/badge/Cryptography-Swift-yellow)
-![Badge](https://img.shields.io/badge/Data-Science-green) 
-![Badge](https://img.shields.io/badge/Business-Management-orange) 
-
-# Project ❤️
-
-* Will come out soon in Public
