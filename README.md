@@ -38,7 +38,7 @@ a smart reminder and emergency contact adding option and all these data is saved
 
 # Stats 📊
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gokulnair2001&show_icons=true&theme=radical)
+![githu stats](https://github-readme-stats.vercel.app/api?username=gokulnair2001&show_icons=true&theme=radical)
 
 # Language 📕
 
