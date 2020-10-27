@@ -13,7 +13,7 @@ ____________________________________________________________________
 
 ____________________________________________________________________
  
-- 👋 everyone, Myself Gokul R Nair, an iOS App Developer pursuing my BTech📜 in Computer science Engineering ,from Vellore Institute Of Technology .
+- 👋 everyone, Myself Gokul R Nair, an iOS App Developer pursuing my BTech📜 in Computer Science Engineering ,from Vellore Institute Of Technology .
 - I made various apps like Criminal Record Management, Weather, Horoscope, E-commerce ,Recipe & Nutrition Apps , have a look on it below ⬇️. 
 - Currently working on an App🛠 called ePocket, This app is an "All In One Payment App" consisting of differnt modes of payment, it also consists of 
 a smart reminder and emergency contact adding option and all these data is saved in the users database making it easy for the user to use multiple device with same data.
