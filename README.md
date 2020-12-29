@@ -6,9 +6,6 @@
 [![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)](https://www.slack.com/_gokul_r_nair_)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/gokul_r_nair)
 
-____________________________________________________________________
-
-![I Help People To Make Apps and To Code](https://user-images.githubusercontent.com/56252259/92433078-a8b68880-f1b9-11ea-91a4-9089b8288543.png)</br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gokulnair2001)
 
 ____________________________________________________________________
