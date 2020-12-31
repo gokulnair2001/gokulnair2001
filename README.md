@@ -32,7 +32,7 @@ ____________________________________________________________________
 [![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/gokulnair2001/)
 [![SqlLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/gokulnair2001/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://github.com/gokulnair2001/)
-[![Py](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)](https://github.com/gokulnair2001/)
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
 # Stats 📊
