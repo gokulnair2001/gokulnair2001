@@ -17,6 +17,10 @@ ____________________________________________________________________
 - Oops,I forgot to mention I am a tech enthusiast and a natural photographer.   
 - Thank you for giving your valuable time to look at my GitHub Profile.👨🏻‍💻 
 
+# Recent Projects ❤️
+
+- I worked on frontend of [ADG-VIT's](https://apps.apple.com/in/app/adg-vit/id1545733138) Recruitment App which is available on App store.
+- Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 
 
 # 🚀 Skills 
 
