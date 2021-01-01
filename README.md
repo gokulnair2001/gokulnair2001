@@ -10,7 +10,7 @@
 ____________________________________________________________________
  
 - 👋 everyone, Myself Gokul R Nair, an iOS App Developer pursuing my BTech📜 in Computer Science Engineering ,from Vellore Institute Of Technology .
-- I made various apps like Criminal Record Management,COVID Detection E-commerce ,Recipe & Nutrition Apps , have a look on it below ⬇️. 
+- I made various apps like Criminal Record Management, COVID Detection, E-commerce, Recipe & Nutrition Apps, have a look on it below ⬇️. 
 - Currently working on a library called "Capo",which is a custom framework used to apply various sort of animation and effects to a button. Right now the library comes with limited features, new features will be added in future releases.
 - Future Plans: Become a successful iOS App Developer as well and an emerging entrepreneur
 - Oops,I forgot to mention I am a tech enthusiast and a natural photographer.   
