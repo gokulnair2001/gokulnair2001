@@ -17,8 +17,9 @@ ____________________________________________________________________
 
 # Recent Projects ❤️
 
-- I worked on frontend of [ADG-VIT's](https://apps.apple.com/in/app/adg-vit/id1545733138) Recruitment App which is available on App store.
-- Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 
+- I worked on frontend of [ADG-VIT's](https://apps.apple.com/in/app/adg-vit/id1545733138) Recruitment App which is available on App store 🎯 .
+- Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 🔘 .
+- ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
 
 # 🚀 Skills 
 
