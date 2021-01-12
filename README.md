@@ -21,6 +21,10 @@ ____________________________________________________________________
 - Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 🔘 .
 - ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
 
+# Upcoming Projects 🤫
+
+- Custom Library for iOS/iPadOS Apps 📦 [Want To Collab](https://www.linkedin.com/in/gokul-r-nair/)
+
 # 🚀 Skills 
 
 [![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
