@@ -24,7 +24,7 @@ ____________________________________________________________________
 
 # Upcoming Projects 🤫
 
-- Custom Library for iOS & iPadOS Apps 📦 [ Want To Collab 📥](https://www.linkedin.com/in/gokul-r-nair/)
+- Working on an ML+AI based App📱 [ Want To Collab 📥](https://www.linkedin.com/in/gokul-r-nair/)
 
 # 🚀 Skills 
 
