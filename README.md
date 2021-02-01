@@ -22,6 +22,9 @@ ____________________________________________________________________
 - Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 🔘 .
 - ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
 
+# Contributions 🤝
+- Successfully contributed to a game called [Unofficial SF Symbols Game](https://apps.apple.com/us/app/unofficial-sf-symbols-game/id1507692602) which is on App store. 
+
 # Upcoming Projects 🤫
 
 - Working on an ML+AI based App📱 [ Want To Collab 📥](https://www.linkedin.com/in/gokul-r-nair/)
