@@ -31,7 +31,7 @@ ____________________________________________________________________
 
 # 🚀 Skills 
 
-[![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
+[![Swit](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 [![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://github.com/gokulnair2001/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/gokulnair2001/)
