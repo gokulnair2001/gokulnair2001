@@ -29,7 +29,7 @@ ____________________________________________________________________
 
 - Working on an ML+AI based App📱 [ Want To Collab 📥](https://www.linkedin.com/in/gokul-r-nair/)
 
-<details open>
+<details>
 <summary>
  Want to know more 👀
 </summary>
