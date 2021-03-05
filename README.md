@@ -29,6 +29,11 @@ ____________________________________________________________________
 
 - Working on an ML+AI based App📱 [ Want To Collab 📥](https://www.linkedin.com/in/gokul-r-nair/)
 
+<details open>
+<summary>
+ Want to know more❗️
+</summary>
+<br>
 # 🚀 Skills 
 
 [![Swit](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
@@ -53,3 +58,4 @@ ____________________________________________________________________
 # Device 💻
 
 [![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
+</details>
