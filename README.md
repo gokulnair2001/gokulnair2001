@@ -31,9 +31,10 @@ ____________________________________________________________________
 
 <details open>
 <summary>
- Want to know more❗️
+ Want to know more 👀
 </summary>
 <br>
+ 
 # 🚀 Skills 
 
 [![Swit](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
