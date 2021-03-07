@@ -17,7 +17,7 @@ ____________________________________________________________________
 
 # Recent Projects ❤️
 
-- I worked on frontend of [ADG-VIT's](https://apps.apple.com/in/app/adg-vit/id1545733138) Recruitment App which is available on App store 🎯 .
+- I worked on frontend of [ADG-VIT's](https://github.com/ADG-VIT/ADG-Externals-App-iOS) Recruitment App which is available on [App store](https://apps.apple.com/in/app/adg-vit/id1545733138) 🎯 .
 - Made a custom library to add [Loafs](https://androidexample365.com/content/images/2020/04/sample_dark_toast.png) in your project: [Loafjet](https://github.com/gokulnair2001/Loafjet)🚀
 - Working on a custom library called [Capo](https://github.com/gokulnair2001/Capo) 🔘 .
 - ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
