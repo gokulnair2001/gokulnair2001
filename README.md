@@ -51,7 +51,8 @@ ____________________________________________________________________
 
 # Stats 📊
 
-![githu stats](https://github-readme-stats.vercel.app/api?username=gokulnair2001&show_icons=true&theme=radical)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokulnair2001&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulnair2001&theme=tokyonight" alt="Gokul" /> -->
 
 # Language 📕
 
@@ -61,3 +62,4 @@ ____________________________________________________________________
 
 [![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
 </details>
+</a>
