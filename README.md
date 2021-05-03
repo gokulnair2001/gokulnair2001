@@ -30,7 +30,7 @@ ____________________________________________________________________
 
 # Upcoming Projects 🤫
 
-- Working on an ML+AI based App📱 [ Want To Collab 📥](https://twitter.com/GokulNair2303)
+- Want to collab on Swift projects, [Reach me at 📥](https://twitter.com/GokulNair2303)
  
 # 🚀 Skills 
 
