@@ -17,6 +17,7 @@ ____________________________________________________________________
 
 # Recent Projects ❤️
 
+- Do checkout my new app [Dock!](https://apps.apple.com/in/app/dock/id1569386912) 🤩 .
 - I worked on frontend of [ADG-VIT's](https://github.com/ADG-VIT/ADG-Externals-App-iOS) Recruitment App which is available on [App store](https://apps.apple.com/in/app/adg-vit/id1545733138) 🎯 .
 - Made a custom library to add Loafs in your project: [Loafjet](https://github.com/gokulnair2001/Loafjet)🚀
 - Developed a custom library called [Capo](https://github.com/gokulnair2001/Capo) 🔘 .
