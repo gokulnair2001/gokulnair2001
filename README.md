@@ -31,7 +31,7 @@ ____________________________________________________________________
 
 # Upcoming Projects 🤫
 
-- Want to collab on Swift projects, [Reach me at 📥](https://twitter.com/GokulNair2303)
+- Want to collab on Swift projects, [Reach me at 📥](https://twitter.com/itIsGokulNair)
  
 # 🚀 Skills 
 
