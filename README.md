@@ -35,7 +35,7 @@ ____________________________________________________________________
 
 - Want to collab on Swift projects, [Reach me at 📥](https://twitter.com/itIsGokulNair)
  
-# 🚀 Skills 
+# Skills 🚀 
 
 [![Swit](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)](https://github.com/gokulnair2001/)
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
