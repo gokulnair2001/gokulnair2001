@@ -58,7 +58,7 @@ ____________________________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulnair2001&layout=compact)](https://github.com/gokulnair2001/github-readme-stats)
 
-# Device 💻
+<!--# Device 💻
 
 [![Mac](https://img.shields.io/badge/apple-macbook%20pro%202020-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macbook-pro-16/)
-</details>
+</details>-->
