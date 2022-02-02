@@ -19,9 +19,9 @@ ____________________________________________________________________
 # Recent Projects ❤️
 
 - Do checkout my new app [Dock!](https://apps.apple.com/in/app/dock/id1569386912) 🤩 .
+- Developed a Record management app called [RTS Connect](https://apps.apple.com/in/app/rts-connect/id1607039178) ☀️.
 - Made a custom library to add Loafs in your project: [Loafjet](https://github.com/gokulnair2001/Loafjet)🚀
 - Worked on a developer tool called [Sketch-2-Code](https://github.com/MLH-Fellowship/pod-3.1.0-Sketch2Code) 
-- I worked on frontend of [ADG-VIT's](https://github.com/ADG-VIT/ADG-Externals-App-iOS) Recruitment App which is available on [App store](https://apps.apple.com/in/app/adg-vit/id1545733138) 🎯 .
 - Developed a custom framework called [ConfettiKit](https://github.com/gokulnair2001/ConfettiKit). 🎉
 - ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
 
