@@ -19,8 +19,7 @@ ____________________________________________________________________
 # Recent Projects ❤️
 
 - Do checkout my new app [Dock!](https://apps.apple.com/in/app/dock/id1569386912) 🤩 .
-- Event Promotions Reimagined [Evo](https://apps.apple.com/in/app/evo-events/id1589664595) ❤️
-- Do checkout my new app [Dock!](https://apps.apple.com/in/app/dock/id1569386912) 🤩 .
+- Event Promotions Reimagined [Evo](https://apps.apple.com/in/app/evo-events/id1589664595) ❤️ .
 - Developed a Record management app called [RTS Connect](https://apps.apple.com/in/app/rts-connect/id1607039178) ☀️.
 - Made a custom library to add Loafs in your project: [Loafjet](https://github.com/gokulnair2001/Loafjet)🚀
 - Worked on a developer tool called [Sketch-2-Code](https://github.com/MLH-Fellowship/pod-3.1.0-Sketch2Code) 
