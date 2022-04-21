@@ -25,7 +25,7 @@ ____________________________________________________________________
 - ML Based Covid Detection App: [COVID TODAY](https://github.com/gokulnair2001/COVID-TODAY) 🦠 .
 
 # Contributions 🤝
-- Successfully contributed to a game called [SF-Symbols-Game](https://github.com/rudrankriyam/Unofficial-SF-Symbols-Game) which is on App store 🎮.
+- Successfully contributed to a game called [SF-Symbols-Game](https://apps.apple.com/in/app/sf-symbols-game/id1507692602) which is on App store 🎮.
 - Contributed a documentation update in [Firefox iOS](https://github.com/mozilla-mobile/firefox-ios) which is available on App store 🦊!
 - Contributed a documentation change in [Puree](https://github.com/cookpad/Puree-Swift) which is a log aggregator for iOS.
 - My PR got approved by SofthusHQ in their Library called [CircleBar](https://github.com/softhausHQ/CircleBar) ✅.
